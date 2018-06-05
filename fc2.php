@@ -530,3 +530,13 @@
     </script>
  </body>
 </html>
+
+
+
+
+
+
+
+
+
+"Delhi Darwaja","Dilhi Darwaja","Sarkari Litho Press","Hanumanpura","Gurudwara","Junavadaj","Ramapir no teka","Bhavsar Hostel","Akhbarnagar","Pragatinagar","Shastrinagar","Jaimangal","Paras nagar","Parshwanath Jain mandir","BhuyangDev","Sattadhar char Rasta","Sola Bridge","science city approach"
